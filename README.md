@@ -55,7 +55,7 @@ This repository and its contents are licensed under the MIT License. You are fre
 Thanks to the [Python](https://python.org) and [Tkinter](https://docs.python.org/3/library/tkinter.html) communities for their excellent documentation and resources. Also a sincere appreciation goes to @CODSOFT for the internship opportunity given to me that brought about this project.
 
 ## Resources
-- [Python](https://python.org)
+- [Python](https://python.org)    -ASHU RAJPUT 
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 - [Geeksforgeeks Tutorial](https://www.geeksforgeeks.org/python-gui-tkinter/)
 - [Codemy](https://youtube.com/codemy)
