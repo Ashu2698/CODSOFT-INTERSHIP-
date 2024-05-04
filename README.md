@@ -1,64 +1,50 @@
-# Simple Calculator with Tkinter GUI
+# Password Generator Application
 
-Welcome to the Simple Calculator with Tkinter GUI repository! This Python program creates a basic calculator application with a graphical user interface using the Tkinter library. It allows users to perform simple arithmetic operations.
+Generate strong and secure passwords with this Python-based Password Generator Application created with Tkinter GUI.
 
-![Calculator Screenshot](calculator_screenshot.png)
-
-## Table of Contents
-
-1. [Description](#description)
-2. [Getting Started](#getting-started)
-3. [Usage](#usage)
-4. [Features](#features)
-5. [Contributing](#contributing)
-6. [License](#license)
-
-## Description
-
-This Python program creates a simple calculator with a graphical user interface (GUI) using the Tkinter library. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division. Users can enter numbers and perform calculations by clicking the corresponding buttons on the GUI.
-
-## Getting Started
-
-To get started with this calculator, follow these steps:
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/simple_calculator.git
-   ```
-2. Navigate to the folder:
-   `cd simple_calculator`
-3. Run the calculator application:
-   `python calculator.py`
-
-## Usage
-* Enter numbers by clicking the number buttons (0-9).
-* Perform arithmetic operations by clicking the operation buttons (+, -, x, /).
-* Click the "=" button to calculate the result.
-* Click the "Clear" button to clear the input field.
-* The result will be displayed in the input field.
+![Password Generator Screenshot](password_generator.PNG)
 
 ## Features
-* User-friendly graphical user interface (GUI).
-* Supports addition, subtraction, multiplication, and division.
-* Easy-to-use buttons for numeric input and operations.
-* Clear button to reset the input field.
-* Calculates and displays results accurately.
 
-## Contributing
-Contributions to this repository are welcome! If you have suggestions for improvements, bug fixes, or new features, please feel free to fork the repository and submit a pull request. We appreciate your contributions.
+- **Customizable Passwords:** Generate passwords with varying lengths and complexity.
+- **Copy to Clipboard:** Easily copy generated passwords to your clipboard for immediate use.
+
+## How to Use
+
+1. **Generate Password:**
+   - Select your preferred password length using the slider.
+   - Click the "Generate Password" button.
+   - The generated password will appear in the text field.
+   
+2. **Copy to Clipboard:**
+   - Click the "Copy to Clipboard" button to copy the generated password to your clipboard.
+
+
+## Installation
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/lordlughas/CODSOFT/password_generator.git
+
+Run the application:
+`python password.py`
+```
+## Requirements
+  * Python 3.x
+  * Tkinter library (usually included with Python)
 
 ## License
-This repository and its contents are licensed under the MIT License. You are free to use, modify, and distribute this code for personal or commercial purposes.
+This project is licensed under the MIT License
 
 ## Acknowledgments
 Thanks to the [Python](https://python.org) and [Tkinter](https://docs.python.org/3/library/tkinter.html) communities for their excellent documentation and resources. Also a sincere appreciation goes to @CODSOFT for the internship opportunity given to me that brought about this project.
 
 ## Resources
-- [Python](https://python.org)    
+- [Python](https://python.org)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 - [Geeksforgeeks Tutorial](https://www.geeksforgeeks.org/python-gui-tkinter/)
-- [Codemy](https://youtube.com/codemy)
+- [Codemy](https://youtube.com/Vm0ivVxNaA8?si=0989P1RDKZRabFz)
 
-
--ASHU RAJPUT 
+# Author
+[Charles Lughas](https://github.com/lordlughas)
