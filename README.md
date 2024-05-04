@@ -1,65 +1,55 @@
-# Simple TO-DO Application
-A simple and user-friendly Todo Application developed in Python using the Tkinter library.
-![To-Do List](tkinter_todo.PNG)
+# Simple Calculator with Tkinter GUI
+
+Welcome to the Simple Calculator with Tkinter GUI repository! This Python program creates a basic calculator application with a graphical user interface using the Tkinter library. It allows users to perform simple arithmetic operations.
+
+![Calculator Screenshot](calculator_screenshot.png)
 
 ## Table of Contents
-* [Description](#description)
-* [Features](#features)
-* [Installation](#installation)
-* [How to run the application](#how-to-run-the-application)
-* [Usage](#usage)
-* [Requirements]()
-* [Licenses](#licenses)
-* [Acknowledgment](#acknowledgment)
-* [Resources](#resources)
 
-### Description
-This is a To-Do list application built with python's Tkinter that allows users to manage and organize task efficiently.
-Users can create, update, and track their to-do lists.
+1. [Description](#description)
+2. [Getting Started](#getting-started)
+3. [Usage](#usage)
+4. [Features](#features)
+5. [Contributing](#contributing)
+6. [License](#license)
 
-### Features
+## Description
 
-- **Task Management:** Easily add, cross-out, uncross-out, delete crossed-out task and delete selected tasks.
-- **Task List:** View all tasks with titles and due dates, color-coded for better organization.
-- **Save and Load:** Tasks are saved and loaded using the menu buttons(open, save, clear, and exit).
+This Python program creates a simple calculator with a graphical user interface (GUI) using the Tkinter library. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division. Users can enter numbers and perform calculations by clicking the corresponding buttons on the GUI.
 
-### Installation
-#### How to run the application
-* To use the application, you need to clone or download the repository to your local pc code editor terminal.
-```git clone https://github.com/lordlughas/CODSOT_AUGUST/TO-DO_LIST.git```
-* then, change directory to the todo list directory
-```cd ./TO-DO_LIST/```
-* run the to-do.py file
-```python -u to-do.py```
+## Getting Started
+
+To get started with this calculator, follow these steps:
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/simple_calculator.git
+   ```
+2. Navigate to the folder:
+   `cd simple_calculator`
+3. Run the calculator application:
+   `python calculator.py`
 
 ## Usage
-1. **Adding a Task:**
-   - Click the "Add Task" button.
-   - Fill in description.
+* Enter numbers by clicking the number buttons (0-9).
+* Perform arithmetic operations by clicking the operation buttons (+, -, x, /).
+* Click the "=" button to calculate the result.
+* Click the "Clear" button to clear the input field.
+* The result will be displayed in the input field.
 
-2. **Cross-out & uncross-out a Task:**
-   - Select a task from the list.
-   - Click the "Cross-out task" button.
-   - To uncross: Click "Uncross-out task" button.
+## Features
+* User-friendly graphical user interface (GUI).
+* Supports addition, subtraction, multiplication, and division.
+* Easy-to-use buttons for numeric input and operations.
+* Clear button to reset the input field.
+* Calculates and displays results accurately.
 
-3. **Deleting a Task:**
-   - Select a task from the list.
-   - Click the "Delete Task" button to remove it.
-
-4. **Deleting a crossed-out task**
-   - Select a task from the list.
-   - Click the "Delete Crossed-out Task" button to remove it.
-
-5. **Saving and Loading:**
-   - click on menu
-   - From the dropdown menu, you can click save, open or clear list.
-
-## Requirements
-  * Python 3.x
-  * Tkinter library (usually included with Python)
+## Contributing
+Contributions to this repository are welcome! If you have suggestions for improvements, bug fixes, or new features, please feel free to fork the repository and submit a pull request. We appreciate your contributions.
 
 ## License
-This project is licensed under the MIT License
+This repository and its contents are licensed under the MIT License. You are free to use, modify, and distribute this code for personal or commercial purposes.
 
 ## Acknowledgments
 Thanks to the [Python](https://python.org) and [Tkinter](https://docs.python.org/3/library/tkinter.html) communities for their excellent documentation and resources. Also a sincere appreciation goes to @CODSOFT for the internship opportunity given to me that brought about this project.
@@ -68,7 +58,7 @@ Thanks to the [Python](https://python.org) and [Tkinter](https://docs.python.org
 - [Python](https://python.org)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 - [Geeksforgeeks Tutorial](https://www.geeksforgeeks.org/python-gui-tkinter/)
-- [Codemy](https://youtube.com/Vm0ivVxNaA8?si=0989P1RDKZRabFz)
+- [Codemy](https://youtube.com/codemy)
 
 # Author
 [Charles Lughas](https://github.com/lordlughas)
